@@ -27,6 +27,7 @@ Seçim ekranında, modlar üç farklı kategoriye ayrılmıştır: `Zorluk Azalt
 *Ayrıca bakınız: [Özet (Oyun Modları)](/wiki/Game_modifier/Summary)*
 
 Aşağıda belirtilen her modun yanında uyumlu olan oyun modu ikonu bulunacaktır. (![][o!s] ![][o!t] ![][o!c] ![][o!m])
+
 ### Zorluk Azaltma
 
 - [Easy (EZ)](/wiki/Game_modifier/Easy) ![][o!s] ![][o!t] ![][o!c] ![][o!m]
